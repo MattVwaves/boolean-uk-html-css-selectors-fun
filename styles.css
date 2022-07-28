@@ -1,0 +1,45 @@
+p {
+    color: orange;
+    font-size: 28px;
+}
+
+.paragraph {
+    color: green;
+    font-size: 28px;
+}
+
+#paragraph {
+    color: red;
+    font-size: 28px;
+}
+
+h1, h2, h3, h4 {
+    color: pink;
+}
+
+.container-one, .container-two{
+    color: black;
+    font-size: 28px;
+}
+
+.container-one p {
+    color: blue;
+    font-size: 12px;
+    margin-left: 10px;
+    border-bottom: solid 2px
+}
+
+.container-two p {
+    font-size: 15px;
+    color: purple;
+    margin-left: 10px;
+    border-bottom: solid 1px;
+}
+
+.container-one .container-two {
+    font-size: 10px;
+    color: grey;
+    text-transform: uppercase;
+}
+
+
